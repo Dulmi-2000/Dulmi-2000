@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dulmi Wijenayaka</h1>
-<br>
+
 <h3 align="center">Software Engineering Undergraduate at NSBM Green University</h3>
 <br>
 
